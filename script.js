@@ -1,4 +1,4 @@
-// Seleciona o jogo e o cronômetro
+
 const jogoMemoria = document.querySelector('.jogo-memoria'); 
 const elementoCronometro = document.getElementById('tempo'); 
 let cartaVirada = false;
